@@ -17,23 +17,27 @@ Here are some screenshots showcasing the main features of the app:
 
 ### Home Screen
 
-![Home Screen](Screenshots/homescreen.png)
+<img src="Screenshots/homescreen.png" alt="Home Screen" width="400" />
 _Browse through trending, popular, and recommended movies_
+
 
 ### Movie Details
 
-![Movie Details](Screenshots/detailsscreen.png)
+<img src="Screenshots/detailsscreen.png" alt="Movie Details" width="400"  />
 _View comprehensive movie information, ratings, and reviews_
+
 
 ### Search Screen
 
-![Search Screen](Screenshots/searchscreen.png)
+<img src="Screenshots/searchscreen.png" alt="Search Screen" width="400"  />
 _Search for your favorite movies with instant results_
+
 
 ### Profile Screen
 
-![Profile Screen](Screenshots/profilescreen.png)
+<img src="Screenshots/profilescreen.png" alt="Profile Screen" width="400"  />
 _Manage your favorite movies and personalize your experience_
+
 
 ## Technologies Used
 
