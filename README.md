@@ -11,6 +11,30 @@ A Flutter application that allows users to search for movies, view details, and 
 - **Multiple Categories**: Explore movies in various categories such as Trending, Popular, Top Rated, and Upcoming.
 - **Responsive UI**: The app is designed to work on various screen sizes with a consistent user experience.
 
+## Screenshots
+
+Here are some screenshots showcasing the main features of the app:
+
+### Home Screen
+
+![Home Screen](Screenshots/homescreen.png)
+_Browse through trending, popular, and recommended movies_
+
+### Movie Details
+
+![Movie Details](Screenshots/detailsscreen.png)
+_View comprehensive movie information, ratings, and reviews_
+
+### Search Screen
+
+![Search Screen](Screenshots/searchscreen.png)
+_Search for your favorite movies with instant results_
+
+### Profile Screen
+
+![Profile Screen](Screenshots/profilescreen.png)
+_Manage your favorite movies and personalize your experience_
+
 ## Technologies Used
 
 - **Flutter**: The framework for building the app.
@@ -23,7 +47,7 @@ A Flutter application that allows users to search for movies, view details, and 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/movie_app.git
+   git clone https://github.com/codexahmar/InternIntelligence_Movie-App
    ```
 2. Navigate to the project directory:
    ```bash
