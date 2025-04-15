@@ -4,7 +4,7 @@ import '../models/movie.dart';
 
 class ApiService {
   static const String baseUrl = 'https://api.themoviedb.org/3';
-  static const String apiKey = '3a1edc53d67b7ceac01f41a32e31e714';
+  static const String apiKey = 'Your API Key';
   static const String imageBaseUrl = 'https://image.tmdb.org/t/p/w500';
 
   Future<List<Movie>> getTrendingMovies({String timeWindow = 'day'}) async {
