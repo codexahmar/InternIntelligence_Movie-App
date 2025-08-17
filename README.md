@@ -15,28 +15,12 @@ A Flutter application that allows users to search for movies, view details, and 
 
 Here are some screenshots showcasing the main features of the app:
 
-### Home Screen
+| Home Screen                                        | Movie Details                                  | Search Screen                                 | Profile Screen                                |
+| -------------------------------------------------- | --------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| <img src="Screenshots/homescreen.png" width="200"> | <img src="Screenshots/detailsscreen.png" width="200"> | <img src="Screenshots/searchscreen.png" width="200"> | <img src="Screenshots/profilescreen.png" width="200"> |
 
-<img src="Screenshots/homescreen.png" alt="Home Screen" width="400" />
-_Browse through trending, popular, and recommended movies_
+| _Browse through trending, popular, and recommended movies_ | _View comprehensive movie information, ratings, and reviews_ | _Search for your favorite movies with instant results_ | _Manage your favorite movies and personalize your experience_ |
 
-
-### Movie Details
-
-<img src="Screenshots/detailsscreen.png" alt="Movie Details" width="400"  />
-_View comprehensive movie information, ratings, and reviews_
-
-
-### Search Screen
-
-<img src="Screenshots/searchscreen.png" alt="Search Screen" width="400"  />
-_Search for your favorite movies with instant results_
-
-
-### Profile Screen
-
-<img src="Screenshots/profilescreen.png" alt="Profile Screen" width="400"  />
-_Manage your favorite movies and personalize your experience_
 
 
 ## Technologies Used
